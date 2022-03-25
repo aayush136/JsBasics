@@ -11,7 +11,6 @@ function sum(num) {
         suming = 0;
     }
 }
-
 sum(2)(3)();
 sum(1)(2)(3)();
 sum();
